@@ -1,0 +1,16 @@
+# Cache and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Uploaded files
+uploads/
+
+# Environment files
+.env
+config.php
+
+# Others
+node_modules/
+vendor/
