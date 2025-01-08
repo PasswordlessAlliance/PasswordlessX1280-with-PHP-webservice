@@ -120,18 +120,6 @@ To proceed with the process below, you have to sign up the Members site and the 
 
 ## How to use
 + Project source
-  + Maven build in eclipse
-    1. Project Explorer -> Maven (Mouse right click) -> Update Project...
-    2. Select this project and click <b>OK</b> button
-
-  + Maven build in STS (Spring Tool Suite)
-    1. Menu -> Run -> Run Configurations -> Maven Build (Mouse right click) -> New Configuration
-    2. [Name] -> <b>PasswordlessX1280</b> in the input field
-    3. [Base directory] -> click <b>Workspace button</b>
-    4. Select this project
-    5. [Goals] Enter <b>clean install</b> in the input field
-    6. Apply and click <b>Run</b> button
-
   + Run the local srever and access localhost to your browser.
     + Make sure the screen in the screenshot below appears.
 
