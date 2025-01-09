@@ -430,10 +430,6 @@ function loginPasswordlessCheck() {
 	var today = new Date();
 	var now_millisec = today.getTime();
 	var gap_millisec = now_millisec - passwordless_milisec;
-	console.log("방방");
-	console.log(passwordless_milisec);
-
-	console.log(sessionId);
 	
 	if(gap_millisec < passwordless_terms * 1000 - 1000) {
 		
