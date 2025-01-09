@@ -149,12 +149,6 @@ To proceed with the process below, you have to sign up the Members site and the 
 
     ![image](https://github.com/user-attachments/assets/6e0691a7-a812-4c75-9b35-e4e43179b4b3)
 
-+ Applying Passwordless X1280 easier
-  * This project (<b>PasswordlessX1280-with-Java-RestAPI-webservice</b>) requires you to implement both the registration screen and the login screen yourself.
-  * If you use the <b>PasswordlessX1280-with-Java-UI-webservice</b> project, which provides a simple UI, you can apply Passwordless X1280 more easily because the screens are provided by default.
-
-    [https://github.com/PasswordlessAlliance/PasswordlessX1280-with-Java-UI-webservice/tree/master](https://github.com/PasswordlessAlliance/PasswordlessX1280-with-Java-UI-webservice/tree/master)
-
 
 ## Who we are
 
