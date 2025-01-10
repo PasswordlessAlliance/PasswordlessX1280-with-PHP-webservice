@@ -99,7 +99,7 @@ To proceed with the process below, you have to sign up the Members site and the 
 
 
 ## Applying Passwordless X1280 server ID and server key to web application server
-  Modify the project's /src/main/resources/properties/config.properties file
+  Modify the project's /api/commonApi.php file
   
 ![image1](https://github.com/user-attachments/assets/d14a341d-7231-4e1f-81f7-87118bb5bc5a)
 
