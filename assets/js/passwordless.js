@@ -392,7 +392,7 @@ function drawPasswordlessLogin() {
 			var now_millisec = today.getTime();
 			var gap_millisec = now_millisec - check_millisec;
 
-			console.log(gap_millisec);
+			//console.log(gap_millisec);
 			if(gap_millisec > 1500) {
 				check_millisec = today.getTime();
 				// loginPasswordlessCheck(); polling
@@ -683,7 +683,7 @@ function drawPasswordlessReg() {
 		var today = new Date();
 		var now_millisec = today.getTime();
 		var gap_millisec = now_millisec - check_millisec;
-		console.log(gap_millisec);
+		//console.log(gap_millisec);
 		if(gap_millisec > 1500) {
 			check_millisec = today.getTime();
 			// regPasswordlessOK();	// polling   
